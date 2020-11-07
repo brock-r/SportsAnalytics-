@@ -1,6 +1,6 @@
 # AndNewAnalytics 
 
-## Sport Statstic Porject
+## Sports Statistic Project
 
 ### Goal 
 
