@@ -1,4 +1,4 @@
-# AndNewAnalytics ![](https://github.com/brock-r/SportsAnalytics-/blob/master/AndNewAnalytics/newlogo.png)
+# AndNewAnalytics ![](https://github.com/brock-r/SportsAnalytics-/blob/master/AndNewAnalytics/newlogo2.png)
 
 ## Sports Statistic Project
 
