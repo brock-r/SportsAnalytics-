@@ -1,6 +1,6 @@
 # AndNewAnalytics 
 
-![https://www.instagram.com/andnewanalytics/?hl=en](https://github.com/brock-r/SportsAnalytics-/blob/master/AndNewAnalytics/newlogo2.png)
+<span style="display:block;text-align:right">![](https://github.com/brock-r/SportsAnalytics-/blob/master/AndNewAnalytics/newlogo2.png)</span>
 
 ## Sports Statistic Project
 
