@@ -1,2 +1,2 @@
-*.* linguist-language=Python
+*.rb linguist-language=Python
 *.* linguist-language=SQL
