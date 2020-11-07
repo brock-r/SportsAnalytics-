@@ -14,4 +14,4 @@ Web Scraping advanced sports statistics using Python's Beautiful Soup library, e
 
 ### Sources
 
-The data is mainly collected from [the official UFC stat website](http://www.ufcstats.com), [ESPN]( https://www.espn.com/mma/) and various other reliable MMA resources.
+The data is mainly collected from the offical [UFC stat website](http://www.ufcstats.com), [ESPN]( https://www.espn.com/mma/) and various other reliable MMA resources.
