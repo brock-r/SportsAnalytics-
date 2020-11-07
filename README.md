@@ -1,4 +1,4 @@
-<a href="https://www.instagram.com/andnewanalytics/?hl=en" target="_blank"> <img align="right" width="280px" src="https://github.com/brock-r/SportsAnalytics-/blob/master/AndNewAnalytics/newlogo2.png"> </a>
+<a href="https://www.instagram.com/andnewanalytics/?hl=en"> <img align="right" width="280px" src="https://github.com/brock-r/SportsAnalytics-/blob/master/AndNewAnalytics/newlogo2.png"> </a>
 
 # AndNewAnalytics 
 
