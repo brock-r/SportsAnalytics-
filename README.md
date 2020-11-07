@@ -1,10 +1,8 @@
-# AndNewAnalytics 
-
 <p align="right" width="100%">
     <img width="33%" src="https://github.com/brock-r/SportsAnalytics-/blob/master/AndNewAnalytics/newlogo2.png"> 
 </p>
 
-
+# AndNewAnalytics 
 
 ## Sports Statistic Project
 
