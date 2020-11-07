@@ -1,2 +1,2 @@
-*.rb linguist-language=Python
-*.* linguist-language=SQL
+# Example of a `.gitattributes` file which reclassifies `.rb` files as Java:
+*.rb linguist-language=python
