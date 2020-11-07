@@ -1,4 +1,4 @@
-<img align="right" width="20px" src="https://github.com/brock-r/SportsAnalytics-/blob/master/AndNewAnalytics/newlogo2.png"> 
+<img align="right" width="200px" src="https://github.com/brock-r/SportsAnalytics-/blob/master/AndNewAnalytics/newlogo2.png"> 
 
 # AndNewAnalytics 
 
