@@ -1,3 +1,2 @@
-$ cat .gitattributes
-*.rb linguist-language=python
-*.JupyterNotebook linguist-detectable=false
+*.py linguist-language=python
+*.ipynb linguist-documentation
