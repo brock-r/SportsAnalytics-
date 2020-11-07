@@ -1,2 +1,3 @@
 $ cat .gitattributes
-*.rb linguist-language=Java
+*.rb linguist-language=python
+*.Jupyter Notebook linguist-detectable=false
