@@ -1,2 +1,2 @@
-*.python linguist-detectable=true
-*.SQL linguist-detectable=true
+*.* linguist-language=Python
+*.* linguist-language=SQL
