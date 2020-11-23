@@ -16,7 +16,7 @@ Web Scraping advanced sports statistics using Python's Beautiful Soup library, e
 
 Here is an example of a static post relating to leg kick statistics:
 
-<a href="https://www.instagram.com/p/CEXZQ7PJoSi/"> <img align="center" width="280px" src="https://github.com/brock-r/SportsAnalytics-/blob/master/Example1.jpg"> </a>
+<a href="https://www.instagram.com/p/CEXZQ7PJoSi/"> <img align="centre" width="280px" src="https://github.com/brock-r/SportsAnalytics-/blob/master/Example1.jpg"> </a>
 
 
 ### Sources
