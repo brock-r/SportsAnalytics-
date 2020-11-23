@@ -19,7 +19,20 @@ Here is just a few examples of statistic posts created for social media (Full ve
 <a href="https://www.instagram.com/p/CEXZQ7PJoSi/"> <img align="left" width="300px" src="https://github.com/brock-r/SportsAnalytics-/blob/master/Example1.jpg"> </a>
 <img align="right" src="https://thumbs.gfycat.com/MelodicVeneratedHorseshoebat-size_restricted.gif" width="350px" height="370px" />
 
-
+<p style="color:#ff0000">.
+.
+.
+.
+.
+.
+.
+.
+..
+.
+.
+.
+.
+</p>
 
 ### Sources
 
