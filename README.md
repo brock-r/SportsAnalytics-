@@ -22,16 +22,7 @@ Here is just a few examples of statistic posts created for social media (Full Ve
 
 
 
-
-
-
-
-
-
-
-
-
-
+.
 ### Sources
 
 The data is mainly collected from the offical [UFC stat website](http://www.ufcstats.com), [ESPN]( https://www.espn.com/mma/) and various other reliable MMA resources.
