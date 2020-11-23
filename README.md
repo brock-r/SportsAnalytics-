@@ -23,4 +23,4 @@ Here is just a few examples of statistic posts created for social media.
 
 ### Sources
 
-The data is mainly collected from the offical [UFC stat website](http://www.ufcstats.com),[Sherdog](https://www.sherdog.com/), [ESPN]( https://www.espn.com/mma/), and various other reliable MMA resources.
+<p> The data is mainly collected from the offical [UFC stat website](http://www.ufcstats.com), [Sherdog](https://www.sherdog.com/), [ESPN]( https://www.espn.com/mma/), and various other reliable MMA resources. </p>
