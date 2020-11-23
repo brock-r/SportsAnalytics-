@@ -14,15 +14,13 @@ Web Scraping advanced sports statistics using Python's Beautiful Soup library, e
 
 ### Examples
 
-Here is just a few examples of statistic posts created for social media (Full Versions: ![Example1](https://www.instagram.com/p/CEXZQ7PJoSi/), ![Example2](https://www.instagram.com/p/CGGSZ1_pw-6/) )
+Here is just a few examples of statistic posts created for social media.
 
 <a href="https://www.instagram.com/p/CEXZQ7PJoSi/"> <img align="left" width="300px" src="https://github.com/brock-r/SportsAnalytics-/blob/master/Example1.jpg"> </a>
 <img align="right" src="https://thumbs.gfycat.com/MelodicVeneratedHorseshoebat-size_restricted.gif" width="350px" height="370px" />
 
 
 
-
-.
 ### Sources
 
-The data is mainly collected from the offical [UFC stat website](http://www.ufcstats.com), [ESPN]( https://www.espn.com/mma/) and various other reliable MMA resources.
+The data is mainly collected from the offical [UFC stat website](http://www.ufcstats.com),[Sherdog](https://www.sherdog.com/), [ESPN]( https://www.espn.com/mma/), and various other reliable MMA resources.
