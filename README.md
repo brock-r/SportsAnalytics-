@@ -16,7 +16,7 @@ Web Scraping advanced sports statistics using Python's Beautiful Soup library, e
 
 Here is just a few examples of statistic posts created for social media.
 
-<a href="https://www.instagram.com/p/CEXZQ7PJoSi/"> <img align="left" width="300px" height="400px"src="https://github.com/brock-r/SportsAnalytics-/blob/master/Example1.jpg"> </a>
+<a href="https://www.instagram.com/p/CEXZQ7PJoSi/"> <img align="left" width="300px" src="https://github.com/brock-r/SportsAnalytics-/blob/master/Example1.jpg"> </a>
 <img align="right" src="https://thumbs.gfycat.com/BlankDisgustingIcefish-size_restricted.gif" width="300px" height="400px" />
 
 
